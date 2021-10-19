@@ -25,6 +25,7 @@
     min-height: 400px;
     background-color: var(--color5);
     padding: 10px;
+    text-align: justify;
 }
 
 .navbar > nav{
@@ -37,7 +38,9 @@ color:var(--color1);
 font-weight: bolder;
 padding: 5px
 }
-
+.img-campanha img{
+    border: 5px solid var(--color4);
+}
 footer{
     width: 900px;
     text-align: center;
