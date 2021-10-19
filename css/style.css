@@ -16,10 +16,12 @@
 #principal{
     width: 900px;
 }
+
 #conteudo h1{
     padding:10px;
 
 }
+
 #conteudo{
     width: 880px;
     min-height: 400px;
@@ -38,6 +40,7 @@ color:var(--color1);
 font-weight: bolder;
 padding: 5px
 }
+
 .img-campanha img{
     border: 5px solid var(--color4);
 }
