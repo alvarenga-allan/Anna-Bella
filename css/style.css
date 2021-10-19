@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Color Theme Swatches in Hex */
+:root{
+    --color1: #748310; 
+    --color2: #9AA725; 
+    --color3: #ACB839; 
+    --color4: #C2CD5E; 
+    --color5: #DFD7A9;
+}
+
+#principal{
+    width: 900px;
+}
+#conteudo h1{
+    padding:10px;
+
+}
+#conteudo{
+    width: 880px;
+    min-height: 400px;
+    background-color: var(--color5);
+    padding: 10px;
+}
+
+.navbar > nav{
+    background-color: var(--color4);
+    padding: 18px;
+}
+
+.navbar a{
+color:var(--color1);
+font-weight: bolder;
+padding: 5px
+}
+
+footer{
+    width: 900px;
+    text-align: center;
+    background-color: var(--color4);
+}
